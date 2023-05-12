@@ -1,1 +1,1 @@
-# -30-Image-processing-Filters-GUI
+# 30-Image-processing-Filters-GUI
